@@ -40,3 +40,13 @@ O projeto consiste em um site estático, desenvolvido em HTML, CSS e JavaScript,
 - O formulário de contato envia as mensagens para `contato@dotpixel.com.br` utilizando o serviço Formspree.
 
 Para mais detalhes sobre o código e funcionalidades específicas, consulte os arquivos HTML, CSS e JavaScript fornecidos no projeto.
+
+
+## Autor
+
+Agata Domingues
+
+## Licença
+
+Este projeto está sob a [licença MIT](https://opensource.org/licenses/MIT).
+
