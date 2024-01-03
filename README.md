@@ -48,5 +48,5 @@ Agata Domingues
 
 ## Licença
 
-Este projeto está sob a [licença MIT](https://opensource.org/licenses/MIT).
+Este projeto está sob a [licença MIT](https://opensource.org/licenses/MIT). 
 
